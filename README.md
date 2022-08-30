@@ -78,9 +78,75 @@ CAPITULO 18:
 ![fundamentos capitulo 17-18_page-0032](https://user-images.githubusercontent.com/105695077/187477790-2d476459-3894-478d-add0-b0f50414f7a9.jpg)
 ![fundamentos capitulo 17-18_page-0033](https://user-images.githubusercontent.com/105695077/187477798-f015fa99-40db-4aec-a9c8-a2b1214e2037.jpg)
 ![fundamentos capitulo 17-18_page-0034](https://user-images.githubusercontent.com/105695077/187477801-a590c592-9158-4052-96eb-8432ca350905.jpg)
+
 # EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS:
 
 CAPITULO 17:
+
+2. Determine la impedancia en la figura 17-59 y exprésela en forma polar.
+
+![image](https://user-images.githubusercontent.com/105695077/187478159-566d969d-c090-4b09-b1ef-a528ecb45e84.png)
+
+![image](https://user-images.githubusercontent.com/105695077/187478204-3a20b938-3e11-4b43-965a-4b4f622dee0b.png)
+
+4. Para el circuito de la figura 17-59, determine la reactancia neta que hará que la magnitud de la impedancia sea igual a 100 Ω.
+
+![image](https://user-images.githubusercontent.com/105695077/187478291-3fa41c90-992c-41b6-9424-4f75de2ad37e.png)
+
+![image](https://user-images.githubusercontent.com/105695077/187478334-ec89af26-0d82-4bd3-9170-872044fd3757.png)
+
+6. Trace el diagrama fasorial de voltaje para el circuito de la figura 17-59.
+
+![image](https://user-images.githubusercontent.com/105695077/187478424-3a9d338a-e279-495e-a70b-f5443fe4a9ee.png)
+
+![image](https://user-images.githubusercontent.com/105695077/187478471-afabeece-8ddf-4e69-9193-d1d5ac6019f6.png)
+
+![image](https://user-images.githubusercontent.com/105695077/187478505-3d53ffe3-8699-443b-b93e-1ccdbf5769f7.png)
+
+10. En la figura 17-61, determine XL, XC, Z e I a la frecuencia resonante.
+
+![image](https://user-images.githubusercontent.com/105695077/187478612-8885d103-dacf-4af5-930f-52f10ca4c528.png)
+
+![image](https://user-images.githubusercontent.com/105695077/187478648-406b992f-470b-45c0-b417-d663a9f75d70.png)
+
+12. Para el circuito RLC de la figura 17-62, determine la frecuencia resonante.
+
+![image](https://user-images.githubusercontent.com/105695077/187478717-3df543a5-169d-4a1c-ad57-5abf55d436f1.png)
+
+14. En la figura 17-62, determine el ángulo de fase entre el voltaje aplicado y la corriente a las frecuencias críticas. ¿Cuál es el ángulo de fase en condición de resonancia?
+
+![image](https://user-images.githubusercontent.com/105695077/187478781-af80b99b-2d61-4995-b944-f8819b41dfd1.png)
+
+![image](https://user-images.githubusercontent.com/105695077/187478820-2eac9cdf-057e-46cf-895a-4e28191b6e52.png)
+
+16. Exprese en forma polar la impedancia del circuito de la figura 17-63.
+
+![image](https://user-images.githubusercontent.com/105695077/187478886-469af71c-5117-4c0d-adb9-fda8347ade77.png)
+
+![image](https://user-images.githubusercontent.com/105695077/187478936-d8b552fe-8929-4e29-9428-383242dfcb3b.png)
+
+18. ¿A qué frecuencia el circuito de la figura 17-63 cambia su característica reactiva (de inductiva a capacitiva o viceversa)?
+
+![image](https://user-images.githubusercontent.com/105695077/187479000-48ca799a-f4f3-4a31-b8d4-610b1a2959f8.png)
+
+![image](https://user-images.githubusercontent.com/105695077/187479058-cb428bea-19bc-4a30-95ea-b07c5ffcdecb.png)
+
+20. Determine la impedancia total del circuito de la figura 17-63 a 50 kHz.
+
+![image](https://user-images.githubusercontent.com/105695077/187479116-1a5f9e3f-5f61-4f03-9659-293357a86111.png)
+
+![image](https://user-images.githubusercontent.com/105695077/187479168-638cf4f9-2e9e-48c1-a5fd-b0cf27eb1be3.png)
+
+![image](https://user-images.githubusercontent.com/105695077/187479201-db284850-8134-4885-aab6-e84b5f56d80e.png)
+
+![image](https://user-images.githubusercontent.com/105695077/187479226-cd20c49a-5dad-42b3-8cd5-4c5fe9282a7f.png)
+
+![image](https://user-images.githubusercontent.com/105695077/187479247-b84d9bbc-1da0-48a0-8f81-b6a646a14ce9.png)
+
+22. ¿Cuál es la impedancia de un circuito resonante ideal dispuesto en paralelo (sin resistencia en las ramas)?
+
+Si la corriente total es de cero, la impedancia total del circuito LC en paralelo es infinitamente grande, es decir la impedancia es máxima a la frecuencia resonante y disminuye a frecuencias más bajas y más altas. 
+
 
 
 CAPITULO 18:
