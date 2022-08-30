@@ -258,6 +258,17 @@ d)
 
 ![image](https://user-images.githubusercontent.com/105695077/187482395-977ebc41-a884-4d30-9bb2-602193c395cc.png)
 
+https://user-images.githubusercontent.com/105671763/187448242-95903be9-40bf-4d0c-9712-f8499e9c9174.png
+
+18. Suponiendo que la resistencia de devanado de las bobinas mostradas en la figura 18-43 es de 10 Ω, determine el ancho de banda para cada filtro.
+
+https://user-images.githubusercontent.com/105671763/187334275-43fc9c9b-8822-4e50-ad58-18925a37fff0.png
+
+https://user-images.githubusercontent.com/105671763/187448307-76ec34d0-e224-4d47-8dcd-a2d8bb261a86.png
+
+20. Para cada filtro mostrado en la figura 18-44, determine la frecuencia central de la pasabanda. Ignore RW.
+
+https://user-images.githubusercontent.com/105671763/187334388-dea09143-55eb-4f40-9844-92c482bafdd8.png
 
 # VIDEO:
 
