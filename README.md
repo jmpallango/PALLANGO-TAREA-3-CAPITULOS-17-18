@@ -147,7 +147,66 @@ CAPITULO 17:
 
 Si la corriente total es de cero, la impedancia total del circuito LC en paralelo es infinitamente grande, es decir la impedancia es máxima a la frecuencia resonante y disminuye a frecuencias más bajas y más altas. 
 
+24. ¿Cuánta corriente se extrae de la fuente de la figura 17-64 en condición de resonancia? ¿Cuáles son las corrientes inductiva y capacitiva en la frecuencia resonante?
 
+![image](https://user-images.githubusercontent.com/105695077/187479598-99aa4249-b7d5-4456-b0a0-7ef060726514.png)
+
+![image](https://user-images.githubusercontent.com/105695077/187479639-def1fbc8-7997-4c66-b209-f1b95371cbb0.png)
+
+26. Encuentre la impedancia total para cada circuito de la figura 17-65
+
+![image](https://user-images.githubusercontent.com/105695077/187479726-95949234-1012-492e-943a-d49529959932.png)
+
+![image](https://user-images.githubusercontent.com/105695077/187479777-9e59fa8c-1a89-4871-9135-a20f9b9617c0.png)
+![image](https://user-images.githubusercontent.com/105695077/187479815-75f7bb72-9e9c-4a26-9bfa-a997165aee41.png)
+![image](https://user-images.githubusercontent.com/105695077/187479859-f5656fb8-4f3c-41aa-a0b4-2354677c523c.png)
+![image](https://user-images.githubusercontent.com/105695077/187479894-3962db29-3ac1-4cf0-aee7-df276676a56f.png)
+![image](https://user-images.githubusercontent.com/105695077/187479938-48cd8116-c83b-4d93-91b4-ba96466c8226.png)
+![image](https://user-images.githubusercontent.com/105695077/187479965-674c9414-4f45-49b4-a4d6-35212ad9ce4b.png)
+
+28. Determine el voltaje entre las terminales de cada elemento mostrado en la figura 17-66, y expréselo en forma polar.
+
+![image](https://user-images.githubusercontent.com/105695077/187480056-305f0293-0551-4e2c-a16a-95550daada6e.png)
+![image](https://user-images.githubusercontent.com/105695077/187480083-441f84fb-f701-440c-ac84-d7d590c2cd1d.png)
+![image](https://user-images.githubusercontent.com/105695077/187480122-9ee32605-87e7-4a4b-a778-3e06150dee01.png)
+![image](https://user-images.githubusercontent.com/105695077/187480159-ff69723e-1fb0-414c-8a17-ab72ff719600.png)
+![image](https://user-images.githubusercontent.com/105695077/187480199-8c7a3c66-40a3-4bfe-9569-3094d20d46f6.png)
+![image](https://user-images.githubusercontent.com/105695077/187480246-a6332e9f-c849-42cf-8a66-d8b53297a7c8.png)
+![image](https://user-images.githubusercontent.com/105695077/187480289-73ec46ed-6dee-44b3-b06e-96b224a2414e.png)
+![image](https://user-images.githubusercontent.com/105695077/187480337-5e90efc7-19b5-4132-8e6d-eced0d6d57b2.png)
+![image](https://user-images.githubusercontent.com/105695077/187480380-90ee2e38-c8fc-445d-893c-6ac77dd29a7e.png)
+
+30. ¿Cuál es la corriente a través de R2 en la figura 17-67?
+
+![image](https://user-images.githubusercontent.com/105695077/187480500-ca317e76-28bd-42cf-9e95-6cbd5c5cb1d3.png)
+
+![image](https://user-images.githubusercontent.com/105695077/187480530-7b42592e-6d7a-4472-9a85-a8ae2fde2978.png)
+![image](https://user-images.githubusercontent.com/105695077/187480568-0996feed-1907-492a-a72d-b249eff39bff.png)
+![image](https://user-images.githubusercontent.com/105695077/187480598-a915e221-cfd4-4f63-8704-292aabd8c5bf.png)
+![image](https://user-images.githubusercontent.com/105695077/187480625-be7d7956-aa81-4b72-82a4-e3a2b36f660a.png)
+![image](https://user-images.githubusercontent.com/105695077/187480658-91e1e08a-2bc7-4e3c-b7e1-a67bfeb0e767.png)
+![image](https://user-images.githubusercontent.com/105695077/187480703-15e1b3c3-acf0-4973-9ade-bfd5e704035c.png)
+![image](https://user-images.githubusercontent.com/105695077/187480760-b4e21dd2-c675-454a-b3c2-5a1ce6e1443c.png)
+![image](https://user-images.githubusercontent.com/105695077/187480788-adfd7059-838d-4ac5-a682-6550b963fe38.png)
+![image](https://user-images.githubusercontent.com/105695077/187480810-b7db9596-c7ed-4729-839a-d25e47306ba7.png)
+
+32. Determine la resistencia y la reactancia totales en la figura 17-68.
+
+![image](https://user-images.githubusercontent.com/105695077/187480891-cd6c9d91-9d11-480c-a2d3-d13a1c0f16b7.png)
+
+![image](https://user-images.githubusercontent.com/105695077/187480933-b56e0b0c-bd32-4ec7-8b29-400b5c01a2d0.png)
+
+34. Determine si existe un valor de C que hará Vab = 0 V en la figura 17-69. Si no lo hay, explique la razón.
+
+![image](https://user-images.githubusercontent.com/105695077/187481125-21faf5ac-95de-45a4-8d7d-f5df5637a972.png)
+
+No puede ser Vab = 0 V, ya que, la rama LC no presenta resistencia por lo que el voltaje de ab solo pueda tener un ángulo de fase de (0°, 90°, -90°), y que él Va no es igual al Vb en magnitud ni en ángulo de fase.
+
+36. ¿Cuántas frecuencias resonantes hay en el circuito de la figura 17-70 ¿Por qué?
+
+![image](https://user-images.githubusercontent.com/105695077/187481266-e796ca4e-8f72-4cf2-b5b0-a2fe8f4322c0.png)
+
+Hay dos frecuencias resonantes en el circuito ya que, se necesita calcular la frecuencia resonante paralela y en serie.
 
 CAPITULO 18:
 
