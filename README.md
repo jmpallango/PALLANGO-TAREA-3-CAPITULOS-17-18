@@ -259,6 +259,7 @@ d)
 ![image](https://user-images.githubusercontent.com/105695077/187490886-e63a3f9a-f539-4a60-9c65-270e0bd5dcc8.png)
 
 ![image](https://user-images.githubusercontent.com/105695077/187490932-ae02b1fe-9efb-439f-a288-48e4b9545a4c.png)
+
 ![image](https://user-images.githubusercontent.com/105695077/187490953-31732e01-59b2-4cdc-b2fa-be9656935ac5.png)
 
 18. Suponiendo que la resistencia de devanado de las bobinas mostradas en la figura 18-43 es de 10 Ω, determine el ancho de banda para cada filtro.
