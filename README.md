@@ -256,6 +256,16 @@ d)
 
 16. Determine fc para cada una de las posiciones del interruptor en la figura 18-42.
 
+18. Suponiendo que la resistencia de devanado de las bobinas mostradas en la figura 18-43 es de 10 Ω, determine el ancho de banda para cada filtro.
+
+20. Para cada filtro mostrado en la figura 18-44, determine la frecuencia central de la pasabanda. Ignore RW.
+
+22. Determine la separación de las frecuencias centrales en todas las posiciones del interruptor de la figura 18-45. ¿Se traslapan algunas de las respuestas? Suponga que RW = 0 Ω para cada bobina
+
+24. Determine la frecuencia central para cada filtro mostrado en la figura 18-46.
+
+26. Si la resistencia de las bobinas de la figura 18-47 es de 8 Ω, ¿cuál es el voltaje de salida en condición de resonancia cuando Vent = 50 V?
+
 # VIDEO:
 
 https://youtu.be/gx_DXOqV43M
