@@ -256,15 +256,57 @@ d)
 
 16. Determine fc para cada una de las posiciones del interruptor en la figura 18-42.
 
+![image](https://user-images.githubusercontent.com/105695077/187490886-e63a3f9a-f539-4a60-9c65-270e0bd5dcc8.png)
+
+![image](https://user-images.githubusercontent.com/105695077/187490932-ae02b1fe-9efb-439f-a288-48e4b9545a4c.png)
+![image](https://user-images.githubusercontent.com/105695077/187490953-31732e01-59b2-4cdc-b2fa-be9656935ac5.png)
+
 18. Suponiendo que la resistencia de devanado de las bobinas mostradas en la figura 18-43 es de 10 Ω, determine el ancho de banda para cada filtro.
+
+![image](https://user-images.githubusercontent.com/105695077/187490998-df903d76-454c-4eac-baf1-ecaac4796fb0.png)
+
+![image](https://user-images.githubusercontent.com/105695077/187491024-c916d652-0347-4b0b-befe-288a3213bde8.png)
+![image](https://user-images.githubusercontent.com/105695077/187491041-dd183304-a083-4380-bb57-022ec4de0660.png)
 
 20. Para cada filtro mostrado en la figura 18-44, determine la frecuencia central de la pasabanda. Ignore RW.
 
+![image](https://user-images.githubusercontent.com/105695077/187491096-72aef649-9b1f-44fb-9923-c08f625b801f.png)
+
+a)
+
+![image](https://user-images.githubusercontent.com/105695077/187491131-419b80e4-cf6d-46aa-a383-54cdcaa67065.png)
+
+b)
+
+![image](https://user-images.githubusercontent.com/105695077/187491162-138db3bf-438a-4c3f-a4bf-50ccc8657174.png)
+
 22. Determine la separación de las frecuencias centrales en todas las posiciones del interruptor de la figura 18-45. ¿Se traslapan algunas de las respuestas? Suponga que RW = 0 Ω para cada bobina
+
+![image](https://user-images.githubusercontent.com/105695077/187491245-18beb66b-7d52-443a-a7c8-26d773b0a4e9.png)
 
 24. Determine la frecuencia central para cada filtro mostrado en la figura 18-46.
 
+![image](https://user-images.githubusercontent.com/105695077/187491291-a5284181-b85d-4b15-a48f-8d432213b086.png)
+
+a)
+
+![image](https://user-images.githubusercontent.com/105695077/187491353-68874987-7cfc-40cb-a642-2f35411eb189.png)
+
+b)
+
+![image](https://user-images.githubusercontent.com/105695077/187491373-4a507c75-b742-4671-9bf1-06f521cccfb3.png)
+
 26. Si la resistencia de las bobinas de la figura 18-47 es de 8 Ω, ¿cuál es el voltaje de salida en condición de resonancia cuando Vent = 50 V?
+
+![image](https://user-images.githubusercontent.com/105695077/187491402-c7ffa16f-82fe-4b57-b6ce-eb1aa6b4db96.png)
+
+a)
+
+![image](https://user-images.githubusercontent.com/105695077/187491448-cc1d36c8-20c7-4afa-99b7-416f2cb3c643.png)
+
+b)
+
+![image](https://user-images.githubusercontent.com/105695077/187491491-92f2d6b0-112c-4000-9132-1ebb9ad8820a.png)
 
 # VIDEO:
 
