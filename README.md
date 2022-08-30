@@ -78,7 +78,6 @@ CAPITULO 18:
 ![fundamentos capitulo 17-18_page-0032](https://user-images.githubusercontent.com/105695077/187477790-2d476459-3894-478d-add0-b0f50414f7a9.jpg)
 ![fundamentos capitulo 17-18_page-0033](https://user-images.githubusercontent.com/105695077/187477798-f015fa99-40db-4aec-a9c8-a2b1214e2037.jpg)
 ![fundamentos capitulo 17-18_page-0034](https://user-images.githubusercontent.com/105695077/187477801-a590c592-9158-4052-96eb-8432ca350905.jpg)
-
 # EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS:
 
 CAPITULO 17:
