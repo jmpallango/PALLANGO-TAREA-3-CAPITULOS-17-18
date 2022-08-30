@@ -210,6 +210,54 @@ Hay dos frecuencias resonantes en el circuito ya que, se necesita calcular la fr
 
 CAPITULO 18:
 
+2. Un filtro pasabajas tiene frecuencia crítica de 3 kHz. Determine a cuáles de las siguientes frecuencias se les permite pasar y cuáles son rechazadas:
+
+![image](https://user-images.githubusercontent.com/105695077/187481537-452b0c5d-9b9d-40b8-8cfa-9daa0d2588b7.png)
+
+4. ¿Cuál es fc para cada filtro mostrado en la figura 18-38? Determine el voltaje de salida a fc en cada caso cuando Vent = 5V.
+
+![image](https://user-images.githubusercontent.com/105695077/187481628-747d19bd-f76f-4df9-8580-c66683576580.png)
+
+6. Determine la frecuencia crítica en cada una de las posiciones del interruptor en la red de filtros conmutados de la figura 18-40.
+
+![image](https://user-images.githubusercontent.com/105695077/187481714-24910480-f3f4-49c4-98a2-a5cd79b4148b.png)
+
+8. En cada uno de los casos siguientes, exprese la relación de voltaje en dB:
+
+![image](https://user-images.githubusercontent.com/105695077/187481816-997c8e2c-919a-47e7-9728-67e502ff1093.png)
+
+10. Para cada filtro RC pasabajas, determine el voltaje de salida en dB con respecto a una entrada de 0 dB en las siguientes frecuencias (fc = 1 kHz):
+
+![image](https://user-images.githubusercontent.com/105695077/187481887-7bb5fc55-d61d-4157-94f4-19eb5a00477f.png)
+
+12. La frecuencia crítica de un filtro pasaaltas es de 50 Hz. Determine a cuáles de las siguientes frecuencias se les permite pasar y cuáles son rechazadas:
+
+![image](https://user-images.githubusercontent.com/105695077/187481953-e697fb1f-919a-44f2-89d8-dacd8fd4188b.png)
+
+14. ¿Cuál es fc para cada filtro de la figura 18-41? Determine el voltaje de salida a fc en cada caso (Vent = 10 V).
+
+![image](https://user-images.githubusercontent.com/105695077/187482031-ed73e3d8-aaad-4829-a7ea-92fbbf5367ea.png)
+
+a)
+
+![image](https://user-images.githubusercontent.com/105695077/187482158-6ecaf283-61a7-4836-8bc4-c870bd3e8c86.png)
+
+b)
+
+![image](https://user-images.githubusercontent.com/105695077/187482207-8adc4d1f-5a89-46ff-b532-dacd592fbc38.png)
+
+c)
+
+![image](https://user-images.githubusercontent.com/105695077/187482262-0916ac92-6bba-4ee6-97da-73f01a5846cd.png)
+
+d)
+
+![image](https://user-images.githubusercontent.com/105695077/187482314-58316133-5245-4776-a989-8470f73ead30.png)
+
+16. Determine fc para cada una de las posiciones del interruptor en la figura 18-42.
+
+![image](https://user-images.githubusercontent.com/105695077/187482395-977ebc41-a884-4d30-9bb2-602193c395cc.png)
+
 
 # VIDEO:
 
